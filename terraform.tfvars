@@ -1,1 +1,5 @@
-
+cidr_block = "10.0.0.0/16"
+region = "ap-south-1"
+ami = "ami-02ddb77f8f93ca4ca"
+instance_type = "t3.micro"
+bucket_name = "my-demo-bucket-bkt-test-1"
